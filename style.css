@@ -16,10 +16,10 @@ section
 }
 section .main
 {
-  widht: 500px
+  widht: 580px
   margin: 0 20px;
   display: flex;
-  justify-contetn: center;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
 }
@@ -27,7 +27,7 @@ section .main .searchBx
 {
   position: relative;
   widht: 100%;
-  margin-top: 0 20px;
+  margin-top: 20px;
 }
 section .main .searchBx .query
 {
